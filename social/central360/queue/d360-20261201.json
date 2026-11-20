@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "post_id": "d360-20261201",
+  "date": "2026-12-01",
+  "format": "carousel",
+  "title": "Organize seu orçamento de dezembro",
+  "product": "Dinheiro Organizado 360°",
+  "site": "https://dinheiroorganizado360.netlify.app/",
+  "networks": [
+    "instagram",
+    "tiktok",
+    "facebook"
+  ],
+  "slides": [
+    {
+      "headline": "Dezembro começa com planejamento",
+      "body": "Liste os compromissos do mês antes de gastar."
+    },
+    {
+      "headline": "Registre receitas previstas",
+      "body": "Considere valores certos e separe expectativas de entradas confirmadas."
+    },
+    {
+      "headline": "Mapeie despesas fixas",
+      "body": "Inclua moradia, alimentação, transporte e serviços."
+    },
+    {
+      "headline": "Observe despesas sazonais",
+      "body": "Antecipe presentes, deslocamentos e outras despesas eventuais."
+    },
+    {
+      "headline": "Reveja cartões e parcelas",
+      "body": "Considere vencimentos que vão ocorrer nos próximos meses."
+    },
+    {
+      "headline": "Defina limites realistas",
+      "body": "Acompanhe os gastos e ajuste o plano ao longo do mês."
+    }
+  ],
+  "captions": {
+    "instagram": "Um mês organizado começa com visibilidade: receitas, despesas fixas, parcelas e gastos sazonais. 📅 Use a planilha Dinheiro Organizado 360° como apoio para acompanhar tudo em um dashboard. #DinheiroOrganizado360 #PlanejamentoFinanceiro #OrcamentoPessoal #ControleFinanceiro\n\nAcesse o link na bio para conhecer o Dinheiro Organizado 360°.",
+    "tiktok": "Um mês organizado começa com visibilidade: receitas, despesas fixas, parcelas e gastos sazonais. 📅 Use a planilha Dinheiro Organizado 360° como apoio para acompanhar tudo em um dashboard. #DinheiroOrganizado360 #PlanejamentoFinanceiro #OrcamentoPessoal #ControleFinanceiro\n\nSaiba mais no link do perfil, quando disponível.",
+    "facebook": "Um mês organizado começa com visibilidade: receitas, despesas fixas, parcelas e gastos sazonais. 📅 Use a planilha Dinheiro Organizado 360° como apoio para acompanhar tudo em um dashboard. #DinheiroOrganizado360 #PlanejamentoFinanceiro #OrcamentoPessoal #ControleFinanceiro\n\nSaiba mais: https://dinheiroorganizado360.netlify.app/"
+  }
+}
