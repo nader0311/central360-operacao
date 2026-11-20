@@ -1,0 +1,6 @@
+{
+  "schema_version": 1,
+  "storage": "isolated",
+  "created_by": "chatgpt",
+  "purpose": "verify write permissions without triggering site deploy"
+}
