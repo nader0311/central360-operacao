@@ -1,0 +1,40 @@
+{
+  "approval_source": "central360_telegram_private_chat",
+  "approval_status": "APPROVED",
+  "approved_at": "2026-11-23T15:15:39.335717+00:00",
+  "caption": "Um plano familiar para imprevistos começa com uma conversa: contatos, pontos de encontro e responsabilidades. 🧡 Organização, não medo. Conheça os materiais do Família Preparada 72h. #FamiliaPreparada72h #PlanejamentoFamiliar #Organizacao #PreparacaoFamiliar\n\nConsulte o link no perfil, se ele incluir Família Preparada 72h; caso contrário, solicite o endereço por mensagem.",
+  "captions": {
+    "facebook": "Um plano familiar para imprevistos começa com uma conversa: contatos, pontos de encontro e responsabilidades. 🧡 Organização, não medo. Conheça os materiais do Família Preparada 72h. #FamiliaPreparada72h #PlanejamentoFamiliar #Organizacao #PreparacaoFamiliar\n\nSaiba mais: https://familiapreparada72h.netlify.app/",
+    "instagram": "Um plano familiar para imprevistos começa com uma conversa: contatos, pontos de encontro e responsabilidades. 🧡 Organização, não medo. Conheça os materiais do Família Preparada 72h. #FamiliaPreparada72h #PlanejamentoFamiliar #Organizacao #PreparacaoFamiliar\n\nConsulte o link no perfil, se ele incluir Família Preparada 72h; caso contrário, solicite o endereço por mensagem.",
+    "tiktok": "Um plano familiar para imprevistos começa com uma conversa: contatos, pontos de encontro e responsabilidades. 🧡 Organização, não medo. Conheça os materiais do Família Preparada 72h. #FamiliaPreparada72h #PlanejamentoFamiliar #Organizacao #PreparacaoFamiliar\n\nSaiba mais no link do perfil, quando disponível."
+  },
+  "date": "23/11/2026",
+  "fingerprint": "025abfae05f0218611d19a5f8755a79b7d94c3a6cfbcc1cd9f7fd866f79fd948",
+  "format": "carousel",
+  "media": [
+    "https://raw.githubusercontent.com/nader0311/central360-operacao/main/social/central360/media/f72h-20261123/025abfae05f02186/slide_01.png",
+    "https://raw.githubusercontent.com/nader0311/central360-operacao/main/social/central360/media/f72h-20261123/025abfae05f02186/slide_02.png",
+    "https://raw.githubusercontent.com/nader0311/central360-operacao/main/social/central360/media/f72h-20261123/025abfae05f02186/slide_03.png",
+    "https://raw.githubusercontent.com/nader0311/central360-operacao/main/social/central360/media/f72h-20261123/025abfae05f02186/slide_04.png",
+    "https://raw.githubusercontent.com/nader0311/central360-operacao/main/social/central360/media/f72h-20261123/025abfae05f02186/slide_05.png",
+    "https://raw.githubusercontent.com/nader0311/central360-operacao/main/social/central360/media/f72h-20261123/025abfae05f02186/slide_06.png"
+  ],
+  "networks": [
+    "instagram",
+    "tiktok",
+    "facebook"
+  ],
+  "post_id": "f72h-20261123",
+  "product": "Família Preparada 72h",
+  "publication_policy": "Only ChatGPT via connected Metricool; never Telegram bot",
+  "schema_version": 1,
+  "tiktok_media": [
+    "https://raw.githubusercontent.com/nader0311/central360-operacao/main/social/central360/media/f72h-20261123/025abfae05f02186/slide_01.jpg",
+    "https://raw.githubusercontent.com/nader0311/central360-operacao/main/social/central360/media/f72h-20261123/025abfae05f02186/slide_02.jpg",
+    "https://raw.githubusercontent.com/nader0311/central360-operacao/main/social/central360/media/f72h-20261123/025abfae05f02186/slide_03.jpg",
+    "https://raw.githubusercontent.com/nader0311/central360-operacao/main/social/central360/media/f72h-20261123/025abfae05f02186/slide_04.jpg",
+    "https://raw.githubusercontent.com/nader0311/central360-operacao/main/social/central360/media/f72h-20261123/025abfae05f02186/slide_05.jpg",
+    "https://raw.githubusercontent.com/nader0311/central360-operacao/main/social/central360/media/f72h-20261123/025abfae05f02186/slide_06.jpg"
+  ],
+  "title": "Plano familiar em cinco passos"
+}
