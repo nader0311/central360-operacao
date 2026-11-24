@@ -2,8 +2,8 @@
   "schema_version": 1,
   "post_id": "f72h-20261123",
   "fingerprint": "025abfae05f0218611d19a5f8755a79b7d94c3a6cfbcc1cd9f7fd866f79fd948",
-  "status": "PARTIAL",
-  "updated_at": "2026-11-24T12:52:00-03:00",
+  "status": "SCHEDULED",
+  "updated_at": "2026-11-24T12:53:00-03:00",
   "publication_date": "2026-11-24T16:00:00-03:00",
   "networks": {
     "instagram": {
@@ -12,10 +12,9 @@
       "public_url": null
     },
     "tiktok": {
-      "status": "ERROR",
-      "metricool_id": null,
-      "public_url": null,
-      "reason": "INVALID_ARGUMENT: Error code: INVALID_ARGUMENT; Error: RuntimeException: Error calling MCP tool: [TextContent(type='text', text='Error processing post information: TikTok title is required', annotations=None, meta=None)]"
+      "status": "SCHEDULED",
+      "metricool_id": "440495022",
+      "public_url": null
     },
     "facebook": {
       "status": "SCHEDULED",
