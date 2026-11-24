@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "post_id": "f72h-20261123",
+  "fingerprint": "025abfae05f0218611d19a5f8755a79b7d94c3a6cfbcc1cd9f7fd866f79fd948",
+  "status": "PARTIAL",
+  "updated_at": "2026-11-24T12:52:00-03:00",
+  "publication_date": "2026-11-24T16:00:00-03:00",
+  "networks": {
+    "instagram": {
+      "status": "SCHEDULED",
+      "metricool_id": "440494122",
+      "public_url": null
+    }
+  }
+}
