@@ -16,6 +16,11 @@
       "metricool_id": null,
       "public_url": null,
       "reason": "INVALID_ARGUMENT: Error code: INVALID_ARGUMENT; Error: RuntimeException: Error calling MCP tool: [TextContent(type='text', text='Error processing post information: TikTok title is required', annotations=None, meta=None)]"
+    },
+    "facebook": {
+      "status": "SCHEDULED",
+      "metricool_id": "440494427",
+      "public_url": null
     }
   }
 }
