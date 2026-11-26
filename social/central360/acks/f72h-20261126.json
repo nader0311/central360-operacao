@@ -10,6 +10,11 @@
       "status": "SCHEDULED",
       "metricool_id": "443331821",
       "public_url": null
+    },
+    "tiktok": {
+      "status": "SCHEDULED",
+      "metricool_id": "443331923",
+      "public_url": null
     }
   }
 }
